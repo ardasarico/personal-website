@@ -1,0 +1,11 @@
+# llms.txt
+# This file provides information about AI crawlers and model training usage.
+
+User-agent: *
+Allow: /
+
+# Contact
+Contact: ardasarico@gmail.com
+
+# Policy
+Usage-policy: AI training and data analysis from this site permitted.
